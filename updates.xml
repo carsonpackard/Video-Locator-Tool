@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<Updates>
+ <ApplicationName>{VLT}</ApplicationName>
+ <ApplicationVersion>1.0.0</ApplicationVersion>
+ <PackageUpdate>
+  <Name>VLT</Name>
+  <DisplayName>Basic4x4 component</DisplayName>
+  <Description>This component is uncheckable.</Description>
+  <Version>1.0.0</Version>
+  <ReleaseDate>2015-12-01</ReleaseDate>
+  <UpdateFile OS="Any"/>
+  <DownloadableArchives>content.7z</DownloadableArchives>
+ </PackageUpdate>
+</Updates>
