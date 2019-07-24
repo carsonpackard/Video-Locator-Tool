@@ -1,15 +1,20 @@
 <?xml version="1.0" encoding="utf-8" ?> 
 <Updates>
- <ApplicationName>{VLT}</ApplicationName>
+ <ApplicationName>{Basic4x4}</ApplicationName>
  <ApplicationVersion>1.0.0</ApplicationVersion>
+ <Checksum>true</Checksum>
  <PackageUpdate>
   <Name>VLT</Name>
-  <DisplayName>Basic4x4 component</DisplayName>
+  <DisplayName>VLC Main Install</DisplayName>
   <Description>This component is uncheckable.</Description>
   <Version>1.0.0</Version>
-  <ReleaseDate>2015-12-01</ReleaseDate>
-  <UpdateFile OS="Any"/>
+  <ReleaseDate>07-28-2019</ReleaseDate>
+  <SortingPriority>40</SortingPriority>
+  <UpdateFile UncompressedSize="56605917" CompressedSize="15509593" OS="Any"/>
   <DownloadableArchives>Video-Locator-Tool-master.7z</DownloadableArchives>
-  <ReleaseDate></ReleaseDate>
+  <Licenses>
+   <License name="License agreement" file="LICENSE.txt"/>
+  </Licenses>
+  <SHA1>3ef56b443d43c3d49ee983d7d1f5e6cd6280e30b</SHA1>
  </PackageUpdate>
 </Updates>
