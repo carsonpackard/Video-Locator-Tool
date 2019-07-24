@@ -1,0 +1,40 @@
+<Updates>
+ <ApplicationName>{AnyApplication}</ApplicationName>
+ <ApplicationVersion>1.0.0</ApplicationVersion>
+ <Checksum>true</Checksum>
+ <PackageUpdate>
+  <Name>com.vlt.product</Name>
+  <DisplayName>The root component</DisplayName>
+  <Description>Install this example.asdasdasdasdasdasdasd</Description>
+  <Version>0.1.0-1</Version>
+  <ReleaseDate>2010-09-21</ReleaseDate>
+  <Script>installscript2.qs</Script>
+  <ForcedInstallation>true</ForcedInstallation>
+  <UpdateFile OS="Any" CompressedSize="1874340" UncompressedSize="7256893"/>
+  <DownloadableArchives>Video-Locator-Tool-master.7z</DownloadableArchives>
+  <SHA1>3ba043f34a5c39ab6134f5bf1ded82ab464590ed</SHA1>
+ </PackageUpdate>
+ <PackageUpdate>
+  <Name>com.vlt.product.java</Name>
+  <ForcedInstallation>true</ForcedInstallation>
+  <DisplayName>Java Setup</DisplayName>
+  <Description>This is Java Setup</Description>
+  <Version>0.1.0-1</Version>
+  <ReleaseDate>2010-09-21</ReleaseDate>
+  <UpdateFile OS="Any" CompressedSize="696370" UncompressedSize="2065920"/>
+  <DownloadableArchives>JavaSetup8u221.7z</DownloadableArchives>
+  <SHA1>2b540a1624b95ec507bbff6eb0b3050592b836e8</SHA1>
+ </PackageUpdate>
+ <PackageUpdate>
+  <Name>com.vlt.product.run</Name>
+  <DisplayName>install script</DisplayName>
+  <Description>This installs all the stuff</Description>
+  <Version>0.1.0-1</Version>
+  <ReleaseDate>2010-09-21</ReleaseDate>
+  <Script>installscript.qs</Script>
+  <ForcedInstallation>true</ForcedInstallation>
+  <UpdateFile OS="Any" CompressedSize="170" UncompressedSize="40"/>
+  <DownloadableArchives>content.7z</DownloadableArchives>
+  <SHA1>795b358355919d063ebd0da42cfc5b5d067cc108</SHA1>
+ </PackageUpdate>
+</Updates>
