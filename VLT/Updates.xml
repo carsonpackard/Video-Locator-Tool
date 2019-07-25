@@ -9,9 +9,9 @@
   <Version>0.1.0-1</Version>
   <ReleaseDate>2010-09-21</ReleaseDate>
   <ForcedInstallation>true</ForcedInstallation>
-  <UpdateFile CompressedSize="696370" OS="Any" UncompressedSize="2065920"/>
+  <UpdateFile UncompressedSize="2065920" OS="Any" CompressedSize="696370"/>
   <DownloadableArchives>JavaSetup8u221.7z</DownloadableArchives>
-  <SHA1>dc316c27fdd50ddeb631e1a568a8bc9d80afaf91</SHA1>
+  <SHA1>334a94d4639298fc00a02f6106dfb7b1989836d4</SHA1>
  </PackageUpdate>
  <PackageUpdate>
   <Name>com.vlt.product</Name>
@@ -21,9 +21,9 @@
   <Version>0.1.0-1</Version>
   <ReleaseDate>2010-09-21</ReleaseDate>
   <ForcedInstallation>true</ForcedInstallation>
-  <UpdateFile CompressedSize="1874340" OS="Any" UncompressedSize="7256893"/>
-  <DownloadableArchives>Video-Locator-Tool-master.7z</DownloadableArchives>
-  <SHA1>9f02b3cd2d2e577466d6b9ff5068fec4523c3051</SHA1>
+  <UpdateFile UncompressedSize="7256895" OS="Any" CompressedSize="1874346"/>
+  <DownloadableArchives>data.7z</DownloadableArchives>
+  <SHA1>7f849ba5e4ba2e087170a2d197c4a2d22914994f</SHA1>
  </PackageUpdate>
  <PackageUpdate>
   <Name>com.vlt.product.run</Name>
@@ -33,8 +33,8 @@
   <ReleaseDate>2010-09-21</ReleaseDate>
   <Script>installscript.qs</Script>
   <ForcedInstallation>true</ForcedInstallation>
-  <UpdateFile CompressedSize="170" OS="Any" UncompressedSize="40"/>
+  <UpdateFile UncompressedSize="40" OS="Any" CompressedSize="170"/>
   <DownloadableArchives>content.7z</DownloadableArchives>
-  <SHA1>2094af0ec4df6e953eb319d5aec767354359b010</SHA1>
+  <SHA1>e4559ab3a3eb536a8121072b38bb83d2c1254733</SHA1>
  </PackageUpdate>
 </Updates>
