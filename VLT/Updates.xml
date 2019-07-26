@@ -9,9 +9,9 @@
   <Version>0.1.0-1</Version>
   <ReleaseDate>2010-09-21</ReleaseDate>
   <ForcedInstallation>true</ForcedInstallation>
-  <UpdateFile UncompressedSize="86342948" OS="Any" CompressedSize="82827970"/>
+  <UpdateFile CompressedSize="82827970" OS="Any" UncompressedSize="86342948"/>
   <DownloadableArchives>Java-8-Update-221.app.7z,content.7z</DownloadableArchives>
-  <SHA1>bd252ceed43d1739f67090c66cb3b2fa8b2435a3</SHA1>
+  <SHA1>f7122b7d242dbec20dabae750ed241ee27ce51cf</SHA1>
  </PackageUpdate>
  <PackageUpdate>
   <Name>com.vlt.product</Name>
@@ -21,9 +21,9 @@
   <Version>0.1.0-1</Version>
   <ReleaseDate>2010-09-21</ReleaseDate>
   <ForcedInstallation>true</ForcedInstallation>
-  <UpdateFile UncompressedSize="7257119" OS="Any" CompressedSize="1874993"/>
+  <UpdateFile CompressedSize="1874990" OS="Any" UncompressedSize="7257119"/>
   <DownloadableArchives>lib.7z,content.7z</DownloadableArchives>
-  <SHA1>89d40d6cbcf9ad6c59def23892273fef3229f4e5</SHA1>
+  <SHA1>ecf7b9ae31b42ea658301e9b4a5c3f041a35c534</SHA1>
  </PackageUpdate>
  <PackageUpdate>
   <Name>com.vlt.product.run</Name>
@@ -33,7 +33,7 @@
   <ReleaseDate>2010-09-21</ReleaseDate>
   <Script>installscript.qs</Script>
   <ForcedInstallation>true</ForcedInstallation>
-  <UpdateFile UncompressedSize="0" OS="Any" CompressedSize="0"/>
-  <SHA1>01b254c1e47d804a80fce1eaf919768c0a64dc78</SHA1>
+  <UpdateFile CompressedSize="0" OS="Any" UncompressedSize="0"/>
+  <SHA1>a4e1040e5b7be13d2b8ea6803012b160d7ddf8b4</SHA1>
  </PackageUpdate>
 </Updates>
