@@ -1,0 +1,39 @@
+<Updates>
+ <ApplicationName>{AnyApplication}</ApplicationName>
+ <ApplicationVersion>1.0.0</ApplicationVersion>
+ <Checksum>true</Checksum>
+ <PackageUpdate>
+  <Name>com.vlt.java</Name>
+  <DisplayName>this is java</DisplayName>
+  <Description>this is the java installation</Description>
+  <Version>0.1.0-1</Version>
+  <ReleaseDate>2010-09-21</ReleaseDate>
+  <ForcedInstallation>true</ForcedInstallation>
+  <UpdateFile UncompressedSize="86342948" OS="Any" CompressedSize="82827970"/>
+  <DownloadableArchives>Java-8-Update-221.app.7z,content.7z</DownloadableArchives>
+  <SHA1>bd252ceed43d1739f67090c66cb3b2fa8b2435a3</SHA1>
+ </PackageUpdate>
+ <PackageUpdate>
+  <Name>com.vlt.product</Name>
+  <Script>installscript2.qs</Script>
+  <DisplayName>The root component</DisplayName>
+  <Description>this is the main program</Description>
+  <Version>0.1.0-1</Version>
+  <ReleaseDate>2010-09-21</ReleaseDate>
+  <ForcedInstallation>true</ForcedInstallation>
+  <UpdateFile UncompressedSize="7257119" OS="Any" CompressedSize="1874993"/>
+  <DownloadableArchives>lib.7z,content.7z</DownloadableArchives>
+  <SHA1>89d40d6cbcf9ad6c59def23892273fef3229f4e5</SHA1>
+ </PackageUpdate>
+ <PackageUpdate>
+  <Name>com.vlt.product.run</Name>
+  <DisplayName>install script</DisplayName>
+  <Description>This installs all the stuff</Description>
+  <Version>0.1.0-1</Version>
+  <ReleaseDate>2010-09-21</ReleaseDate>
+  <Script>installscript.qs</Script>
+  <ForcedInstallation>true</ForcedInstallation>
+  <UpdateFile UncompressedSize="0" OS="Any" CompressedSize="0"/>
+  <SHA1>01b254c1e47d804a80fce1eaf919768c0a64dc78</SHA1>
+ </PackageUpdate>
+</Updates>
