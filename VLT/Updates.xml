@@ -10,8 +10,8 @@
   <Version>0.1.0-1</Version>
   <ReleaseDate>2010-09-21</ReleaseDate>
   <ForcedInstallation>true</ForcedInstallation>
-  <UpdateFile OS="Any" UncompressedSize="93600027" CompressedSize="84702600"/>
-  <DownloadableArchives>Java-8-Update-221.app.7z,lib.7z,content.7z</DownloadableArchives>
-  <SHA1>1e7eebebfc2e867a47465eab28803834cf1c213f</SHA1>
+  <UpdateFile UncompressedSize="9322999" CompressedSize="2628251" OS="Any"/>
+  <DownloadableArchives>lib.7z,content.7z</DownloadableArchives>
+  <SHA1>7ba19ae852b475bb802c0db40077fe85fbd4f868</SHA1>
  </PackageUpdate>
 </Updates>
