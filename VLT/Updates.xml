@@ -1,0 +1,17 @@
+<Updates>
+ <ApplicationName>{AnyApplication}</ApplicationName>
+ <ApplicationVersion>1.0.0</ApplicationVersion>
+ <Checksum>true</Checksum>
+ <PackageUpdate>
+  <Name>com.vlt.product</Name>
+  <Script>installscript.qs</Script>
+  <DisplayName>The root component</DisplayName>
+  <Description>this is the main program</Description>
+  <Version>0.1.0-1</Version>
+  <ReleaseDate>2010-09-21</ReleaseDate>
+  <ForcedInstallation>true</ForcedInstallation>
+  <UpdateFile OS="Any" UncompressedSize="6814510" CompressedSize="1827020"/>
+  <DownloadableArchives>data.7z</DownloadableArchives>
+  <SHA1>4cc5395e919dc1b027f38cbec262d7114ae519e8</SHA1>
+ </PackageUpdate>
+</Updates>
