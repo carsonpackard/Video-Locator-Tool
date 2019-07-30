@@ -10,8 +10,8 @@
   <Version>0.1.0-1</Version>
   <ReleaseDate>2010-09-21</ReleaseDate>
   <ForcedInstallation>true</ForcedInstallation>
-  <UpdateFile UncompressedSize="6812315" OS="Any" CompressedSize="1826115"/>
+  <UpdateFile UncompressedSize="5256952" CompressedSize="2115840" OS="Any"/>
   <DownloadableArchives>data.7z</DownloadableArchives>
-  <SHA1>1d63ae3e8a9df93a072de933b199b3873ad98106</SHA1>
+  <SHA1>5c8efc93ebdbfa3a4760d41c195df617b0f774ce</SHA1>
  </PackageUpdate>
 </Updates>
