@@ -10,9 +10,9 @@
   <Version>0.1.0-1</Version>
   <ReleaseDate>2010-09-21</ReleaseDate>
   <ForcedInstallation>true</ForcedInstallation>
-  <UpdateFile CompressedSize="2116290" OS="Any" UncompressedSize="5259811"/>
+  <UpdateFile CompressedSize="2116349" UncompressedSize="5259866" OS="Any"/>
   <DownloadableArchives>data.7z</DownloadableArchives>
-  <SHA1>2ed826a22fe436dd65bd58393ffff23d18f213c5</SHA1>
+  <SHA1>66db59899e96c9f53eb5c43f7694df4319821c46</SHA1>
  </PackageUpdate>
  <PackageUpdate>
   <Name>com.vlt.product.a</Name>
@@ -21,9 +21,9 @@
   <Version>0.1.0-1</Version>
   <ReleaseDate>2010-09-21</ReleaseDate>
   <ForcedInstallation>true</ForcedInstallation>
-  <UpdateFile CompressedSize="39655823" OS="Any" UncompressedSize="40000040"/>
+  <UpdateFile CompressedSize="39655823" UncompressedSize="40000040" OS="Any"/>
   <DownloadableArchives>content.7z</DownloadableArchives>
-  <SHA1>ac1187406a021aea88b009434864e525ba7d8c47</SHA1>
+  <SHA1>42489412a6a375ff04c64a2a3cbf8abb398538e5</SHA1>
  </PackageUpdate>
  <PackageUpdate>
   <Name>com.vlt.product.b</Name>
@@ -32,8 +32,8 @@
   <Version>0.1.0-1</Version>
   <ReleaseDate>2010-09-21</ReleaseDate>
   <ForcedInstallation>true</ForcedInstallation>
-  <UpdateFile CompressedSize="38752271" OS="Any" UncompressedSize="39214340"/>
+  <UpdateFile CompressedSize="38752271" UncompressedSize="39214340" OS="Any"/>
   <DownloadableArchives>content.7z</DownloadableArchives>
-  <SHA1>a371bb1da1b388924fb341b24b219fe5c78bcb08</SHA1>
+  <SHA1>674623389d7031c9ffc3faac71d2694457416b53</SHA1>
  </PackageUpdate>
 </Updates>
