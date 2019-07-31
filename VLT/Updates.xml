@@ -10,8 +10,30 @@
   <Version>0.1.0-1</Version>
   <ReleaseDate>2010-09-21</ReleaseDate>
   <ForcedInstallation>true</ForcedInstallation>
-  <UpdateFile UncompressedSize="5256952" CompressedSize="2115840" OS="Any"/>
+  <UpdateFile UncompressedSize="84473940" OS="Any" CompressedSize="80517184"/>
   <DownloadableArchives>data.7z</DownloadableArchives>
-  <SHA1>5c8efc93ebdbfa3a4760d41c195df617b0f774ce</SHA1>
+  <SHA1>7931c86f3efbf168b9e5c889c345ba5dc3df4d2b</SHA1>
+ </PackageUpdate>
+ <PackageUpdate>
+  <Name>com.vlt.product.a</Name>
+  <DisplayName>Part a</DisplayName>
+  <Description>this is te first part of the program</Description>
+  <Version>0.1.0-1</Version>
+  <ReleaseDate>2010-09-21</ReleaseDate>
+  <ForcedInstallation>true</ForcedInstallation>
+  <UpdateFile UncompressedSize="40000040" OS="Any" CompressedSize="39655823"/>
+  <DownloadableArchives>content.7z</DownloadableArchives>
+  <SHA1>8ba0c7b530439f898a4ceecd908d5685b243729d</SHA1>
+ </PackageUpdate>
+ <PackageUpdate>
+  <Name>com.vlt.product.b</Name>
+  <DisplayName>Part B</DisplayName>
+  <Description>this is the second part of the java installer</Description>
+  <Version>0.1.0-1</Version>
+  <ReleaseDate>2010-09-21</ReleaseDate>
+  <ForcedInstallation>true</ForcedInstallation>
+  <UpdateFile UncompressedSize="39214340" OS="Any" CompressedSize="38752271"/>
+  <DownloadableArchives>content.7z</DownloadableArchives>
+  <SHA1>0beb869aeb31a701755d741f8740c6c60a55c240</SHA1>
  </PackageUpdate>
 </Updates>
